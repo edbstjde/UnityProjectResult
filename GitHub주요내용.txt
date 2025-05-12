@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1gitHub 가입
 2gitHub 저장소 생성
 3githu 저장소 클록
@@ -7,3 +8,10 @@
 6. 커밋하기(commit) 세이브 등록하기
 7. push 하기 내 컴퓨터 로컬에서 호스트 github저장소로 파일을 send
 8.저장소 삭제
+=======
+1gitHub 가입
+2gitHub 저장소 생성
+3githu 저장소 클록
+4. 문서에 github 저장소 이름이랑 같은폴더 생성
+ 호스트 : GitHub   로컬 : 내컴퓨터 문서 -UnityProjectresult
+>>>>>>> dd28f7e (커밋(commit) :등록, 게임으로 치면 세이브 언제든지 커밋한 시점으로 돌아갈수 있다.)
